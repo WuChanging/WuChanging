@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=Ink-Canvas-Artistry&theme=github_dark_dimmed)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
 -->
+
+### 🌟 My Skills
+- **Programming Languages**: Typescript, C#, C/C++, Python
+- **Frontend**: HTML/CSS/JS, jQuery, React
+- **Backend Frameworks**: PHP
+- **Databases**: MySQL
