@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ChangSakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangSakura&rank_icon=percentile&show_icons=true&theme=github_dark_dimmed)](https://github.com/ChangSakura)
+[![ChangSakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangSakura&rank_icon=percentile&show_icons=true&theme=github_dark_dimmed&orgs=InkCanvas)](https://github.com/ChangSakura)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=Ink-Canvas-Artistry&theme=github_dark_dimmed)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
 -->
