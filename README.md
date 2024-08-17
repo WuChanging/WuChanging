@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangSakura&show_icons=true&theme=github_dark_dimmed)
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=Ink-Canvas-Artistry&theme=github_dark_dimmed)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
+-->
