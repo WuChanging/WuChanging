@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![WuChanging's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuChanging&rank_icon=percentile&show_icons=true&theme=github_dark_dimmed&orgs=InkCanvas)](https://github.com/WuChanging)
+[![WuChanging's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuChanging&rank_icon=percentile&show_icons=true&theme=github_light_dimmed&orgs=InkCanvas)](https://github.com/WuChanging)
 
 ## 🌟 Tech Stack  
 
